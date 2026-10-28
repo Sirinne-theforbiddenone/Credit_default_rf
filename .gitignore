@@ -1,0 +1,6 @@
+.opencode/
+*.venv/
+*.env/
+data/
+results/
+test.ipynb
