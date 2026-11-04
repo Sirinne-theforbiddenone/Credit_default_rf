@@ -1,9 +1,0 @@
-opencode.jsonc
-.opencode
-logs/
-data/
-venv/
-env/
-.git/
-AGENTS.md
-plan.md
