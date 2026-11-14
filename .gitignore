@@ -1,9 +1,9 @@
-opencode.jsonc
-.opencode
+/opencode.jsonc
+.opencode/
 logs/
 data/
 venv/
 env/
 .git/
-AGENTS.md
-plan.md
+/AGENTS.md
+/plan.md
