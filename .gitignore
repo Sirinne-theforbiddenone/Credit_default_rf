@@ -7,3 +7,5 @@ env/
 .git/
 /AGENTS.md
 /plan.md
+spec.md
+graphify-out/
